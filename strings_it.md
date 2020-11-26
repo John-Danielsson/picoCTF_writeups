@@ -2,27 +2,25 @@
 ### Category
 General Skills
 ### Problem
-Can you find the flag in [file]() without running it?
+Can you find the flag in [file](./misc_files/strings) without running it?
 ### Hints
 1) [strings](https://linux.die.net/man/1/strings)
 ### Solution
 
 **STEP 1**
 
-Let's look at the image:
-
-![A picture of a garden.](./img/garden.jpg "What's hidden in here?")
+Since we're trying to find the flag without running the file, we need to use the command line interface (CLI).
 
 **STEP 2**
 
-If you don't already have a hex editor on your computer, you can go to this link: https://hexed.it.
+Change your directory to wherever the ```strings``` file is, using ```cd```. For this documentation, ```strings``` is in the ```misc_files``` folder.
 
 **STEP 3**
 
-Upload garden.jpg to your hex editor and use control + F to find the term "pico".
+In the CLI, type in ```strings strings | grep -i picoctf```
 
-We find "Here is a flag "picoCTF{more_than_m33ts_the_3y3657BaB2C}"."
+The terminal gives us the string "picoCTF{5tRIng5_1T_827aee91}".
 
 Thus, we have the flag:
 
-```picoCTF{more_than_m33ts_the_3y3657BaB2C}```
+```picoCTF{5tRIng5_1T_827aee91}```
