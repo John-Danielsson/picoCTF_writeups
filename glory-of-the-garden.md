@@ -11,7 +11,7 @@ This [garden](~/img/garden.jpg) contains more than it seems.
 
 Let's look at the image:
 
-![](~/img/garden.jpg)
+![A picture of a garden.](./img/garden.jpg "What's hidden in here?")
 
 **STEP 2**
 
