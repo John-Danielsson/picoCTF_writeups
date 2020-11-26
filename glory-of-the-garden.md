@@ -23,10 +23,6 @@ Upload garden.jpg to your hex editor and use control + F to find the term "pico"
 
 We find "Here is a flag "picoCTF{more_than_m33ts_the_3y3657BaB2C}"."
 
-<<<<<<< HEAD
 Thus, we have the flag:
 
 ```picoCTF{more_than_m33ts_the_3y3657BaB2C}```
-=======
-Thus, we have the flag ```picoCTF{more_than_m33ts_the_3y3657BaB2C}```.
->>>>>>> 0dfe7cec2ce7049adc582d5f7432a0b1999a1be0
