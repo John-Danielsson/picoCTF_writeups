@@ -11,6 +11,8 @@ Decrypt this [message](./misc_files/ciphertext).
 
 It looks like the flag is already given to us with ```picoCTF{dspttjohuifsvcjdpoabrkttds}```, but the content within the braces is enciphered with a caesar cipher as implied by the hint.
 
+*Here's a [link](https://cryptii.com) to a great caesar cipher decoder.*
+
 **STEP 2**
 
 Running the ciphertext inside the curly braces through a caesar cipher decoder, we find that the plaintext is "crossingtherubiconzaqjsscr".
