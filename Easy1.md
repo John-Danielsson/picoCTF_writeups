@@ -13,7 +13,7 @@ The one time pad can be cryptographically secure, but not when you know the key.
 
 Let's start by looking at the table:
 
-![Unfortunately, this image isn't showing, so just look up "vignere cipher table".](./img/Easy1_table.png "What will YOU bring to the table?")
+![Unfortunately, this image isn't showing, so just look up "vignere cipher table".](./img/Easy1_table.png "Curses! I forgot to remove the cursor from this screenshot.")
 
 **STEP 2**
 
