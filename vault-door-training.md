@@ -52,4 +52,6 @@ public boolean checkPassword(String password) {
 ```
 Just like the hint said, the password is in the source code. The ```checkPassword``` method checks if the user's input is equal to ```w4rm1ng_Up_w1tH_jAv4_eec0716b713```, which is the correct password.
 
-Thus, we have the flag ```picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}```.
+Thus, we have the flag:
+
+```picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}```

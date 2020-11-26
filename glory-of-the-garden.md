@@ -2,7 +2,7 @@
 ### Category
 Forensics
 ### Problem
-This [garden](~/img/garden.jpg) contains more than it seems.
+This [garden](./img/garden.jpg) contains more than it seems.
 ### Hints
 1) What is a hex editor?
 ### Solution
@@ -11,7 +11,7 @@ This [garden](~/img/garden.jpg) contains more than it seems.
 
 Let's look at the image:
 
-![](~/img/garden.jpg)
+![A picture of a garden.](./img/garden.jpg "What's hidden in here?")
 
 **STEP 2**
 
@@ -23,4 +23,6 @@ Upload garden.jpg to your hex editor and use control + F to find the term "pico"
 
 We find "Here is a flag "picoCTF{more_than_m33ts_the_3y3657BaB2C}"."
 
-Thus, we have the flag ```picoCTF{more_than_m33ts_the_3y3657BaB2C}```.
+Thus, we have the flag:
+
+```picoCTF{more_than_m33ts_the_3y3657BaB2C}```

@@ -2,7 +2,7 @@
 ### Category
 Forensics
 ### Problem
-The [numbers](~/img/the_numbers.png)... what do they mean?
+The [numbers](./img/the_numbers.png)... what do they mean?
 ### Hints
 1) The flag is in the format PICOCTF{}
 ### Solution
@@ -11,7 +11,7 @@ The [numbers](~/img/the_numbers.png)... what do they mean?
 
 Let's look at the image:
 
-![](~/img/the_numbers.png)
+![16 9 3 15 3 20 6 { 20 8 5 14 21 13 2 5 18 19 13 1 19 15 14 }](./img/the_numbers.png "What do they mean?")
 
 
 **STEP 2**
@@ -22,4 +22,6 @@ There are 2 curly braces (a left one and a right one), but everything else is a 
 
 Using such a substitution cipher, we can decipher the numbers, which gives us PICOCTF{THENUMBERSMASON}.
 
-Thus, we have the flag ```PICOCTF{THENUMBERSMASON}```.
+Thus, we have the flag:
+
+```PICOCTF{THENUMBERSMASON}```
