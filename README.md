@@ -7,4 +7,4 @@ A word of caution: If you are attempting to solve the problems on the picoCTF si
 
 Wherever possible, I will format each write-up in such a way that you can scroll through each step incrementally without seeing what the next step is (i.e. you'll be able to give yourself hints if you get stuck). 
 
-Finally, note that each methods shown in this repository is not necessarily the only solution to its relevant problem.
+Finally, note that each method shown in this repository is not necessarily the only solution to its relevant problem.
