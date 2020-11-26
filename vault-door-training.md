@@ -8,6 +8,7 @@ Your mission is to enter Dr. Evil's laboratory and retrieve the blueprints for h
 ### Solution
 
 **STEP 1**
+
 Let's look at the source code:
 ```
 import java.util.*;
@@ -39,9 +40,11 @@ class VaultDoorTraining {
 ```
 
 **STEP 2**
+
 The first thing that we should dig into is the if/else control structure. The if statement checks if ```vaultDoor.checkPassword(input)``` returns ```true```. So let's check out the ```checkPassword``` method!
 
 **STEP 3**
+
 ```
 public boolean checkPassword(String password) {
     return password.equals("w4rm1ng_Up_w1tH_jAv4_eec0716b713");
