@@ -23,10 +23,13 @@ This is a Vignere (pronounced something like "vin-yey") cipher, and we know the 
 
 To get you started so that you can figure out the rest:
 
-    1) Start with the letter S on the topmost row of letters.
-    2) Under S, go straight down to the letter U.
-    3) From the letter U right under S, go straight across to the left until you reach the leftmost column of letters, where you end up at C, which is the first letter of the plaintext.
-    4) Repeat this down-and-to-the-left process with the key SOLVECRYPTO, you will get the plaintext "CRYPTOISFUN". O is the next letter to use for decipherment, after S.
+1) Start with the letter S on the topmost row of letters.
+
+2) Under S, go straight down to the letter U.
+
+3) From the letter U right under S, go straight across to the left until you reach the leftmost column of letters, where you end up at C, which is the first letter of the plaintext.
+
+4) Repeat this down-and-to-the-left process with the key SOLVECRYPTO, you will get the plaintext "CRYPTOISFUN". O is the next letter to use for decipherment, after S.
 
 Thus, we have the flag:
 
