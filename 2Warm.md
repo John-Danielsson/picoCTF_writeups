@@ -9,9 +9,7 @@ Can you convert the number 42 (base 10) to binary (base 2)?
 
 **STEP 1**
 
-A good first question to ask is: What number, ```2^n```, where ```n``` is a positive integer, is less than or equal to ```42```, but ```2^(n+1)``` is greater than ```42```?
-
-That number is ```32``` (equal to ```2^5```).
+A good first question to ask is: What numbers that are powers of 2, added up, equal 42? Figure out that answer, and you can easily solve this problem. If you don't know how to write a binary number, look it up.
 
 **STEP 2**
 
